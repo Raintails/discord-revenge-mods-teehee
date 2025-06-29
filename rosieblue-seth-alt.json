@@ -41,7 +41,7 @@
         "INTERACTIVE_MUTED": [ "#8a8ebf" ],
         "INTERACTIVE_NORMAL": [ "#fffeff" ],
         "TEXT_LINK": [ "#91a4ff" ],
-        "TEXT_NORMAL": [ "#fbfbfb" ],
+        "TEXT_NORMAL": [ "#000000" ],
         "TEXT_MUTED": [ "#929ce7" ],
         "TEXT_PRIMARY": [ "#dbdee1" ],
         "THREAD_CHANNEL_SPINE": [ "#BBC4F8" ],
