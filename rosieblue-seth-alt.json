@@ -1,5 +1,5 @@
 {
-    "name": "Rosie Blue seth alt",
+    "name": "Rosie Blue screamy dog alt",
     "description": "🐱",
     "version": "2.0",
     "authors": [
@@ -41,7 +41,7 @@
         "INTERACTIVE_MUTED": [ "#8a8ebf" ],
         "INTERACTIVE_NORMAL": [ "#fffeff" ],
         "TEXT_LINK": [ "#91a4ff" ],
-        "TEXT_NORMAL": [ "#000000" ],
+        "TEXT_NORMAL": [ "#fbfbfb" ],
         "TEXT_MUTED": [ "#929ce7" ],
         "TEXT_PRIMARY": [ "#dbdee1" ],
         "THREAD_CHANNEL_SPINE": [ "#BBC4F8" ],
